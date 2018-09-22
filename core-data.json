@@ -205,6 +205,9 @@
       "name": "Writhing Weed Seed"
     },
     {
+      "name": "Bladderfish"
+    },
+    {
       "name": "Bleach",
       "depends": [
         {
@@ -398,6 +401,51 @@
       ]
     },
     {
+      "name": "Air Bladder",
+      "depends": [
+        {
+          "name": "Silicone Rubber"
+        },
+        {
+          "name": "Bladderfish"
+        }
+      ]
+    },
+    {
+      "name": "Pathfinder Tool",
+      "depends": [
+        {
+          "name": "Creepvine Seed Cluster",
+          "count": 2
+        },
+        {
+          "name": "Copper Wire"
+        },
+        {
+          "name": "Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Flare",
+      "depends": [
+        {
+          "name": "Cave Sulfur"
+        }
+      ]
+    },
+    {
+      "name": "Flashlight",
+      "depends": [
+        {
+          "name": "Battery"
+        },
+        {
+          "name": "Glass"
+        }
+      ]
+    },
+    {
       "name": "Habitat Builder",
       "depends": [
         {
@@ -411,6 +459,146 @@
         {
           "name": "Lubricant",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "Laser Cutter",
+      "depends": [
+        {
+          "name": "Diamond",
+          "count": 2
+        },
+        {
+          "name": "Battery"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Cave Sulfur"
+        }
+      ]
+    },
+    {
+      "name": "Light Stick",
+      "depends": [
+        {
+          "name": "Battery"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Glass"
+        }
+      ]
+    },
+    {
+      "name": "Propulsion Cannon",
+      "depends": [
+        {
+          "name": "Wiring Kit"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Battery"
+        }
+      ]
+    },
+    {
+      "name": "Repair Tool",
+      "depends": [
+        {
+          "name": "Silicone Rubber"
+        },
+        {
+          "name": "Cave Sulfur"
+        },
+        {
+          "name": "Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Repulsion Cannon",
+      "depends": [
+        {
+          "name": "Propulsion Cannon"
+        },
+        {
+          "name": "Computer Chip"
+        },
+        {
+          "name": "Magnetite",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Scanner",
+      "depends": [
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Battery"
+        }
+      ]
+    },
+    {
+      "name": "Propulsion Cannon",
+      "depends": [
+        {
+          "name": "Wiring Kit"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Battery"
+        }
+      ]
+    },
+    {
+      "name": "Stasis Rifle",
+      "depends": [
+        {
+          "name": "Computer Chip"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Battery"
+        },
+        {
+          "name": "Magnetite",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Survival Knife",
+      "depends": [
+        {
+          "name": "Silicone Rubber"
+        },
+        {
+          "name": "Titanium"
+        }
+      ]
+    },
+    {
+      "name": "Thermoblade",
+      "depends": [
+        {
+          "name": "Survival Knife"
+        },
+        {
+          "name": "Battery"
         }
       ]
     }
