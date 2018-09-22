@@ -1,0 +1,418 @@
+{
+  "blueprints": [
+    {
+      "name": "Titanium"
+    },
+    {
+      "name": "Copper Ore"
+    },
+    {
+      "name": "Cave Sulfur"
+    },
+    {
+      "name": "Silver Ore"
+    },
+    {
+      "name": "Diamond"
+    },
+    {
+      "name": "Gas Pod"
+    },
+    {
+      "name": "Gold"
+    },
+    {
+      "name": "Kyanite"
+    },
+    {
+      "name": "Lead"
+    },
+    {
+      "name": "Lithium"
+    },
+    {
+      "name": "Magnetite"
+    },
+    {
+      "name": "Metal Salvage"
+    },
+    {
+      "name": "Nickel Ore"
+    },
+    {
+      "name": "Quartz"
+    },
+    {
+      "name": "Ruby"
+    },
+    {
+      "name": "Ion Cube"
+    },
+    {
+      "name": "Salt Deposit"
+    },
+    {
+      "name": "Alien Feces"
+    },
+    {
+      "name": "Stalker Teeth"
+    },
+    {
+      "name": "Crystalline Sulfur"
+    },
+    {
+      "name": "Uraninite Crystal"
+    },
+    {
+      "name": "Coral Tube Sample"
+    },
+    {
+      "name": "Fungal Sample"
+    },
+    {
+      "name": "Brain Coral Sample"
+    },
+    {
+      "name": "Table Coral Sample"
+    },
+    {
+      "name": "Acid Mushroom"
+    },
+    {
+      "name": "Deep Shroom"
+    },
+    {
+      "name": "Marblemelon"
+    },
+    {
+      "name": "Pink Cap"
+    },
+    {
+      "name": "Small Marblemelon"
+    },
+    {
+      "name": "Speckled Rattler"
+    },
+    {
+      "name": "Gel Sack"
+    },
+    {
+      "name": "Acid Mushroom Spore"
+    },
+    {
+      "name": "Blood Oil"
+    },
+    {
+      "name": "Blue Palm Seed"
+    },
+    {
+      "name": "Bulbo Tree Sample"
+    },
+    {
+      "name": "Cave Bush Seed"
+    },
+    {
+      "name": "Chinese Potato"
+    },
+    {
+      "name": "Creepvine Sample"
+    },
+    {
+      "name": "Creepvine Seed Cluster"
+    },
+    {
+      "name": "Deep Shroom Spore"
+    },
+    {
+      "name": "Eye Stalk Seed"
+    },
+    {
+      "name": "Fern Palm Seed"
+    },
+    {
+      "name": "Gabe's Feather Seed"
+    },
+    {
+      "name": "Ghost Weed Seed"
+    },
+    {
+      "name": "Grub Basket Seed"
+    },
+    {
+      "name": "Jaffa Cup Seed"
+    },
+    {
+      "name": "Jellyshroom Spore"
+    },
+    {
+      "name": "Bulb Bush Sample"
+    },
+    {
+      "name": "Lantern Fruit"
+    },
+    {
+      "name": "Marblemelon Seeds"
+    },
+    {
+      "name": "Membrain Tree Seed"
+    },
+    {
+      "name": "Ming Plant Seed"
+    },
+    {
+      "name": "Pink Cap Spore"
+    },
+    {
+      "name": "Pygmy Fan Seed"
+    },
+    {
+      "name": "Regress Shell Seed"
+    },
+    {
+      "name": "Redwort Seed"
+    },
+    {
+      "name": "Rouge Cradle Seed"
+    },
+    {
+      "name": "Sea Crown Seed"
+    },
+    {
+      "name": "Speckled Rattler Spore"
+    },
+    {
+      "name": "Spiked Horn Grass Seed"
+    },
+    {
+      "name": "Gel Sack Spores"
+    },
+    {
+      "name": "Spotted Dockleaf Seed"
+    },
+    {
+      "name": "Tiger Plant Seed"
+    },
+    {
+      "name": "Veined Nettle Seed"
+    },
+    {
+      "name": "Violet Beau Seed"
+    },
+    {
+      "name": "Voxel Shrub Seed"
+    },
+    {
+      "name": "Writhing Weed Seed"
+    },
+    {
+      "name": "Bleach",
+      "depends": [
+        {
+          "name": "Salt Deposit"
+        },
+        {
+          "name": "Coral Tube Sample"
+        }
+      ]
+    },
+    {
+      "name": "Glass",
+      "depends": [
+        {
+          "name": "Quartz",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Enameled Glass",
+      "depends": [
+        {
+          "name": "Glass"
+        },
+        {
+          "name": "Stalker Teeth"
+        }
+      ]
+    },
+    {
+      "name": "Fiber Mesh",
+      "depends": [
+        {
+          "name": "Creepvine Sample",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Lubricant",
+      "depends": [
+        {
+          "name": "Creepvine Seed Cluster"
+        }
+      ]
+    },
+    {
+      "name": "Plasteel Ingot",
+      "depends": [
+        {
+          "name": "Titanium Ingot"
+        },
+        {
+          "name": "Lithium",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Silicone Rubber",
+      "depends": [
+        {
+          "name": "Creepvine Seed Cluster"
+        }
+      ]
+    },
+    {
+      "name": "Titanium Ingot",
+      "depends": [
+        {
+          "name": "Titanium",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "name": "Wiring Kit",
+      "depends": [
+        {
+          "name": "Silver Ore",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Advanced Wiring Kit",
+      "depends": [
+        {
+          "name": "Wiring Kit"
+        },
+        {
+          "name": "Gold",
+          "count": 2
+        },
+        {
+          "name": "Computer Chip"
+        }
+      ]
+    },
+    {
+      "name": "Battery",
+      "depends": [
+        {
+          "name": "Copper Ore"
+        },
+        {
+          "name": "Acid Mushroom",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Computer Chip",
+      "depends": [
+        {
+          "name": "Gold"
+        },
+        {
+          "name": "Copper Wire"
+        },
+        {
+          "name": "Table Coral Sample",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Copper Wire",
+      "depends": [
+        {
+          "name": "Copper Ore",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Power Cell",
+      "depends": [
+        {
+          "name": "Silicone Rubber"
+        },
+        {
+          "name": "Battery",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Reactor Rod",
+      "depends": [
+        {
+          "name": "Uraninite Crystal",
+          "count": 3
+        },
+        {
+          "name": "Lead"
+        },
+        {
+          "name": "Titanium"
+        },
+        {
+          "name": "Glass"
+        }
+      ]
+    },
+    {
+      "name": "Ion Battery",
+      "depends": [
+        {
+          "name": "Ion Cube"
+        },
+        {
+          "name": "Gold"
+        },
+        {
+          "name": "Silver Ore"
+        }
+      ]
+    },
+    {
+      "name": "Ion Power Cell",
+      "depends": [
+        {
+          "name": "Silicone Rubber"
+        },
+        {
+          "name": "Ion Battery",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "Habitat Builder",
+      "depends": [
+        {
+          "name": "Titanium",
+          "count": 3
+        },
+        {
+          "name": "Wiring Kit",
+          "count": 1
+        },
+        {
+          "name": "Lubricant",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
