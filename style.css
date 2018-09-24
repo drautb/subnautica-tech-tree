@@ -5,7 +5,7 @@ body {
 .node rect {
     cursor: pointer;
     fill: #fff;
-    fill-opacity: 0.5;
+    fill-opacity: 0.9;
     stroke: #3182bd;
     stroke-width: 1.5px;
 }
